@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "80a660c2-d109-4418-8abe-693b80d83954",
+      "username": "mafs_master",
+      "password": "$2a$10$6aPR.H.mr2mt1D5JOrIBKuPQ0Cdy.Sq3/KzxaEmYsYx2w1dMjV5hq",
+      "role": "superadmin",
+      "display_name": "mafs_master"
+    }
+  ],
+  "employees": [],
+  "attendance": [],
+  "leaves": [],
+  "notifications": []
+}
